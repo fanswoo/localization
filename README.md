@@ -1,0 +1,1 @@
+# fanswoo localization
