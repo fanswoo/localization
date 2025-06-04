@@ -13,6 +13,6 @@ class LocalizationProvider extends ServiceProvider
 
     public function register()
     {
-        Route::get('/fanswoo/localization/{locale}.js', LocalizationController::class);
+        Route::get('/fanswoo/localization.js', LocalizationController::class);
     }
 }
